@@ -15,7 +15,11 @@ My first desktop application built using **Electron.js**.
 3. Extract the ZIP
 4. Double-click `Hello Dhruvil.exe`
 
-## 🚀 How to Run Locally
+## 📸 Screenshot
+
+<img src="screenshots/app.png" alt="Hello Dhruvil Desktop App" width="800" />
+
+## 🚀 Run Locally (For Developers)
 
 ```bash
 npm install
