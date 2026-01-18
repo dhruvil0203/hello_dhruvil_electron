@@ -17,7 +17,7 @@ My first desktop application built using **Electron.js**.
 
 ## 📸 Screenshot
 
-<img src="screenshots/app.png" alt="Hello Dhruvil Desktop App" width="800" />
+<img src="screenshot/image.png" alt="Hello Dhruvil Desktop App" width="800" />
 
 ## 🚀 Run Locally (For Developers)
 
